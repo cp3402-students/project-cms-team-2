@@ -20,13 +20,11 @@ Arrow Energy
 
 Ensure proper layout and display on homepage/partners page
 
-
 Staff Profiles Management
 
 Update Juliana's bio with 9 years experience
 Add Dee's profile and photo
 Add Ben's profile and photo
-
 
 Events Gallery Section
 
@@ -40,12 +38,9 @@ Workshops
 
 
 
-
-
 Meshack Kiplimo
 
 Primary Responsibilities
-
 
 Appointment System Integration
 
@@ -57,7 +52,6 @@ Ben's Calendar
 
 
 Replace "Get in Touch" section with booking calendars
-
 
 Services Description Section
 
@@ -72,7 +66,6 @@ Workshops and seminars
 
 
 
-
 Skills-Based Training Section
 
 Create and format content for:
@@ -83,8 +76,6 @@ Skills Assessments
 Building Confidence
 Networking Opportunities
 Workshops and Seminars
-
-
 
 
 
@@ -103,7 +94,6 @@ Layout and formatting
 
 
 
-
 Job Search Resources
 
 Create and organize sections for:
@@ -112,7 +102,6 @@ General Job Search websites (Seek, Indeed, CareerOne, Jora)
 Graduate Jobs (GradConnection, Prosple)
 Most Common Jobs for Students
 Average Salary in Australia section
-
 
 
 
@@ -127,10 +116,50 @@ Post-Interview follow-up
 
 Integrate with existing content
 
+Rishab Verma
+
+Primary Responsibilities
+
+Testimonials Section
+
+Create and implement testimonials carousel/display
+Collect and format student success stories
+Design layout for testimonial presentation
+Implement filtering system by service type
+
+Analytics Integration
+
+Set up Google Analytics tracking
+Create custom event tracking for:
+
+Appointment bookings
+Resource downloads
+Page engagement metrics
 
 
-Shared Responsibilities
+Implement monthly reporting structure
 
+Resource Library Section
+
+Create centralized resource repository
+Organize downloadable content:
+
+Resume templates
+Cover letter samples
+Interview preparation checklists
+Career planning worksheets
+
+
+Implement search and filter functionality
+
+Mobile Responsiveness
+
+Review and optimize mobile display
+Test responsiveness across devices
+Fix any existing mobile display issues
+Ensure proper scaling of images and content
+
+Shared Responsibilities (All Team Members)
 Documentation
 
 All team members must contribute to:
@@ -142,20 +171,17 @@ README.md
 
 
 
-
 Quality Assurance
 
 Cross-review each other's work
 Test functionality across different devices
 Ensure consistent styling
 
-
 Version Control
 
 Maintain proper git workflow
 Regular commits with meaningful messages
 Code review for team members' changes
-
 
 Project Management
 
