@@ -1,4 +1,4 @@
-Astra Theme Development Documentation
+** Astra Theme Development Documentation **
 
 Overview
 
